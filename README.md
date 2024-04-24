@@ -1,4 +1,4 @@
-# MiniTorch Module 4
+# MiniTorch
 
 This program is an implementation of the following module by Alexander Rush.
 
